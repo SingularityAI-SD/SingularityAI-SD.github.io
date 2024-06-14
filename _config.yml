@@ -24,8 +24,8 @@ baseurl: ""
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://scriptor-jekyll.netlify.com"
 
-# Favicon
-favicon: images/favicon.png
+# # Favicon
+# favicon: images/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
