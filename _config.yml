@@ -41,7 +41,7 @@ navigation:
   - text: Tags
     url: /tags/
   - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+    url: /download/
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
