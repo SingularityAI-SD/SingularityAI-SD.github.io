@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Graphic Designer On The Road"
+title: "AI at its Best"
 description: "A graphic designer is a professional within the graphic design and graphic arts industry."
-date: 2022-01-05
+date: 2024-06-16
 feature_image: images/road.jpg
 tags: [tips, work]
 ---
 
-A graphic designer is a professional within the graphic design and graphic arts industry who assembles together images, typography, or motion graphics to create a piece of design. A graphic designer creates the graphics primarily for published, printed or electronic media, such as brochures (sometimes) and advertising. They are also sometimes responsible for typesetting, illustration, user interfaces, web design, or take a teaching position. A core responsibility of the designer's job is to present information in a way that is both accessible and memorable.
+I am an Undergrad Specialising in Artificial intelligence, Machine Learning & Deep Learning. I am open to 
+Collaborate, Contribute and Connect with Developers, Researchers, Content Creators, Inventors, CEO'S,
+Tech Enthusiasts, Authors, Influencers and many more Diverse Communities.
+
+My Aim is to Build A Company and a Community that bridges the gap between Society and Technology that could contribute to the Sustainability and the Neocortical Capacity of the human kind as we advance into the future.
+
+I think Simplicity and Creative Imagination is the best Evolution.
 
 <!--more-->
 
