@@ -34,14 +34,14 @@ google_analytics: ""
 navigation:
   - text: Home
     url: /
-  - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-  - text: Download
-    url: /download/
+  - text: Portfolio
+    url: /portfolio/
+  - text: Projects & Publications
+    url: /projects/
+  - text: Accolades
+    url: /accolades/
+  - text: CV
+    url: /cv/
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
