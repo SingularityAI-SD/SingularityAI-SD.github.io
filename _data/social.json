@@ -1,24 +1,24 @@
 {
   "links": [
     {
-      "title": "Twitter",
-      "icon": "fa-twitter",
-      "url": "https://twitter.com/"
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/rishit-kapoor-269187178/"
     },
     {
       "title": "GitHub",
       "icon": "fa-github",
-      "url": "https://github.com/"
+      "url": "https://github.com/SingularityAI-SD"
+    },
+    {
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/rishit_kapoor"
     },
     {
       "title": "Instagram",
       "icon": "fa-instagram",
-      "url": "https://www.instagram.com/"
-    },
-    {
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
+      "url": "https://www.instagram.com/rishitkapoor.infinity?igsh=MTQ0bmtwbDV6c2UxNA=="
     }
   ]
 }
