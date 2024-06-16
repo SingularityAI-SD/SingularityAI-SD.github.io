@@ -21,13 +21,6 @@ description: "Bookmark this tab to keep an eye on Rishit's project updates"
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
-### Markdown
-I am an Undergrad Specialising in Artificial intelligence, Machine Learning & Deep Learning. I am open to Collaborate, Contribute and Connect with Developers, Researchers, Content Creators, Inventors, CEO’S, Tech Enthusiasts, Authors, Influencers and many more Diverse Communities.
-
-My Aim is to Build A Company and a Community that bridges the gap between Society and Technology that could contribute to the Sustainability and the Neocortical Capacity of the human kind as we advance into the future.
-
-I think Simplicity and Creative Imagination is the best Evolution.
-
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://scriptor-jekyll.netlify.com"
 
